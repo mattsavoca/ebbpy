@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+setup.py
+ebbpy/__init__.py
+ebbpy/mixture.py
+ebbpy/prior.py
+ebbpy/testing.py
+ebbpy.egg-info/PKG-INFO
+ebbpy.egg-info/SOURCES.txt
+ebbpy.egg-info/dependency_links.txt
+ebbpy.egg-info/requires.txt
+ebbpy.egg-info/top_level.txt

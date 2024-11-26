@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: ebbpy
+Version: 0.1
+Summary: Empirical Bayes methods for beta-binomial models in Python
+Author: Matt Savoca
+Author-email: mattscottsavoca@gmail.com
+Requires-Dist: numpy
+Requires-Dist: polars
+Requires-Dist: scipy
