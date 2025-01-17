@@ -1,5 +1,8 @@
 # ebbpy: Empirical Bayes on the Binomial in Python
 
+The `ebbpy` package is a re-making of the `{ebbr}` R package by David Robinson.
+
+<!---
 **License:** MIT
 
 ---
